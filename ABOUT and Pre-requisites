@@ -1,0 +1,4 @@
+# Python-OpenCV
+Hand Gesture Detection (one to five fingers at once) using OpenCV and using them to control the VLC video player for play, pause and fast forward.
+
+Necessary: A single toned plain background for webcam video.
